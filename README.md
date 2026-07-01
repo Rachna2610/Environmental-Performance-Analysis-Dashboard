@@ -80,7 +80,8 @@ Environmental-Performance-Analysis-Dashboard/
 > Place the dashboard screenshot inside the **Images** folder with the name **dashboard.png**.
 
 ```markdown
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview]
+![Dashboard](Images/dashboard.png)
 ```
 
 ---
