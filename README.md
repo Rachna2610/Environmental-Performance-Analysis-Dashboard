@@ -2,112 +2,109 @@
 
 ## 📌 Project Overview
 
-The Environmental Performance Analysis Dashboard is an interactive Power BI dashboard designed to analyze air quality data and monitor environmental pollution trends. The dashboard provides key performance indicators (KPIs) and monthly trend analysis for major pollutants.
+This project analyzes environmental air quality data to monitor pollution levels and evaluate environmental performance using an interactive Power BI dashboard.
 
-This project demonstrates data cleaning, data modeling, KPI creation, and dashboard development using Microsoft Power BI.
-
----
-
-## 🎯 Objectives
-
-* Analyze air quality data.
-* Monitor monthly pollution trends.
-* Track important environmental KPIs.
-* Create an interactive dashboard for data visualization.
+The dashboard helps identify trends in major air pollutants, monitor key performance indicators (KPIs), and support data-driven environmental decision-making.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🎯 Objective
 
-* Microsoft Power BI
-* Microsoft Excel
-* CSV Dataset
-* Git & GitHub
+- Analyze air quality metrics across different months.
+- Monitor pollution levels using KPIs.
+- Identify trends in major pollutants.
+- Build an interactive dashboard using Power BI.
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Power BI
+- SQL (Optional)
+- Git & GitHub
 
 ---
 
 ## 📂 Project Structure
 
-```text
+```
 Environmental-Performance-Analysis-Dashboard/
 │
 ├── Dataset/
-│   ├── final_dataset.csv
-│   └── Notes/
+│   └── final_dataset.csv
 │
 ├── Images/
 │   └── dashboard.png
 │
-├── PowerBI/
-│   └── environmental_performance_dashboard.pbix
+├── Notes/
+│   ├── data_cleaning_report.md
+│   ├── dataset_understanding.md
+│   ├── kpi_definition.md
+│   └── kpi_results.md
 │
+├── PowerBI/
+│   └── Environmental_Performance_Dashboard.pbix
+│
+├── KPI_Analysis.xlsx
 └── README.md
 ```
 
 ---
 
-## 📊 Dashboard Features
+## 📊 Key Performance Indicators (KPIs)
 
-### KPI Cards
+- Average AQI
+- Maximum AQI
+- Average PM2.5
+- Average PM10
+- Average NO2
+- Average SO2
+- Average CO
+- Average Ozone
 
-* Average AQI
-* Maximum AQI
-* Average PM2.5
-* Average PM10
-* Average NO2
-* Average SO2
-* Average CO
-* Average Ozone
+---
 
-### Interactive Filter
+## 📈 Dashboard Features
 
-* Month Slicer
-
-### Trend Analysis
-
-* Monthly AQI Trend
-* Monthly PM2.5 Trend
-* Monthly PM10 Trend
-* Monthly NO2 Trend
-* Monthly SO2 Trend
-* Monthly CO Trend
-* Monthly Ozone Trend
+- Interactive Month Slicer
+- KPI Cards
+- Monthly AQI Trend
+- Monthly PM2.5 Trend
+- Monthly PM10 Trend
+- Monthly NO2 Trend
+- Monthly SO2 Trend
+- Monthly CO Trend
+- Monthly Ozone Trend
 
 ---
 
 ## 📷 Dashboard Preview
 
-> Place the dashboard screenshot inside the **Images** folder with the name **dashboard.png**.
-
-```markdown
-![Dashboard Preview]
 ![Dashboard](Images/dashboard.png)
-```
 
 ---
 
-## 📈 Key Insights
+## 📌 Key Insights
 
-* AQI changes across different months.
-* PM2.5 and PM10 show seasonal variation.
-* NO2, SO2, CO, and Ozone trends can be compared monthly.
-* KPI cards provide a quick summary of environmental performance.
+- AQI changes across different months.
+- PM2.5 and PM10 show seasonal variation.
+- NO2, SO2, CO, and Ozone trends can be compared monthly.
+- KPI cards provide a quick summary of environmental performance.
 
 ---
 
 ## 🚀 Future Improvements
 
-* Add Year and Date filters.
-* Add city-wise comparison.
-* Include forecasting.
-* Publish the dashboard to the Power BI Service.
+- Add Year and Date filters.
+- Add city-wise comparison.
+- Include forecasting.
+- Publish the dashboard to the Power BI Service.
 
 ---
 
 ## 👩‍💻 Author
 
-**Rachna **
+**Rachna**
 
 Aspiring Cloud Engineer | Learning Data Analytics & Power BI
-
-
