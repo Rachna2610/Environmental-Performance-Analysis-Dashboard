@@ -114,7 +114,7 @@ Environmental-Performance-Analysis-Dashboard/
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="Images/dashboard.png" alt="Environmental Performance Dashboard" width="1000">
+  <img src="Images/dashboard.png?v=2" alt="Environmental Performance Dashboard" width="1000">
 </p>
 
 ---
