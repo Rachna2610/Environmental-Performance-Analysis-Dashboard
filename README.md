@@ -1,5 +1,10 @@
 # 🌍 Environmental Performance Analysis Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## 📌 Project Overview
 
 This project analyzes environmental air quality data to monitor pollution levels and evaluate environmental performance using an interactive Power BI dashboard.
@@ -7,6 +12,33 @@ This project analyzes environmental air quality data to monitor pollution levels
 The dashboard helps identify trends in major air pollutants, monitor key performance indicators (KPIs), and support data-driven environmental decision-making.
 
 ---
+
+## 📊 Project Statistics
+
+| Category | Details |
+|----------|---------|
+| Dashboard Tool | Microsoft Power BI |
+| Data Source | CSV Dataset |
+| Data Preparation | Microsoft Excel |
+| Dashboard Type | Interactive KPI Dashboard |
+| KPIs | 8 |
+| Charts | 7+ |
+| Filters | Month Slicer |
+| Version Control | Git |
+| Repository | GitHub |
+
+---
+## ✨ Project Highlights
+
+- 📊 Interactive Power BI Dashboard
+- 📅 Monthly Air Quality Trend Analysis
+- 📈 KPI Cards for Environmental Metrics
+- 🎛️ Dynamic Month Slicer
+- 📂 Well-Organized GitHub Repository
+- 📄 Detailed Project Documentation
+
+---
+
 
 ## 🎯 Objective
 
@@ -81,7 +113,9 @@ Environmental-Performance-Analysis-Dashboard/
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+<p align="center">
+  <img src="Images/dashboard.png" alt="Environmental Performance Dashboard" width="1000">
+</p>
 
 ---
 
@@ -92,7 +126,30 @@ Environmental-Performance-Analysis-Dashboard/
 - NO2, SO2, CO, and Ozone trends can be compared monthly.
 - KPI cards provide a quick summary of environmental performance.
 
+
 ---
+## 💡 Skills Demonstrated
+
+- Data Cleaning and Preparation
+- Data Visualization using Power BI
+- KPI Design and Analysis
+- Interactive Dashboard Development
+- Data Storytelling
+- Excel Data Processing
+- Git Version Control
+- GitHub Repository Management
+
+---
+## ▶️ How to Use
+
+1. Clone or download this repository.
+2. Open `Environmental_Performance_Dashboard.pbix` in **Power BI Desktop**.
+3. Load or refresh the dataset if required.
+4. Use the **Month slicer** to filter the dashboard.
+5. Explore the KPIs and trend charts to analyze environmental performance.
+
+---
+
 
 ## 🚀 Future Improvements
 
@@ -105,6 +162,14 @@ Environmental-Performance-Analysis-Dashboard/
 
 ## 👩‍💻 Author
 
-**Rachna**
+### Rachna
 
-Aspiring Cloud Engineer | Learning Data Analytics & Power BI
+Aspiring **Cloud Engineer** | Learning **Data Analytics**, **Power BI**, **Python**, and **AWS**
+
+### 📫 Connect
+
+- GitHub: https://github.com/Rachna2610
+
+---
+
+⭐ If you found this project interesting, consider giving it a star on GitHub!
